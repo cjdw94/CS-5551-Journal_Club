@@ -1,1 +1,1 @@
-# CS5551_Journal_Club
+# CS-5551-Journal_Club
